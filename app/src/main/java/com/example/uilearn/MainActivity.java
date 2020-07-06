@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
                     public void run() {
                         if(setuStatus!=3)
                         {
+
                             setuStatus+=1;
                             imageView.setImageResource(setus.get(setuStatus));
                         }
