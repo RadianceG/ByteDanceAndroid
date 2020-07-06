@@ -65,13 +65,14 @@ public class MainActivity extends AppCompatActivity {
                     public void run() {
                         if(setuStatus!=3)
                         {
-
                             setuStatus+=1;
                             imageView.setImageResource(setus.get(setuStatus));
+                            Log.d("MainActivity","load_a_new_image");
                         }
                         else{
                             setuStatus=0;
                             imageView.setImageResource(setus.get(setuStatus));
+                            Log.d("MainActivity","load_a_new_image");
                         }
                         progressBar.setVisibility(View.INVISIBLE);
 
