@@ -6,3 +6,5 @@ Homework for the summer class
 点击item跳转，点击查找子View可以查找recycler的子View，可以使用Homework2.apk直接进行检测。
 ## Homework3
 实现了Lottie动画和Property动画。
+## Homework4
+实现了通过handler每秒刷新时钟，可以使用Homework4.apk直接进行检测。
