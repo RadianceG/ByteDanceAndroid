@@ -2,11 +2,7 @@ package com.byted.camp.todolist.beans;
 
 import android.graphics.Color;
 
-/**
- * Created on 2019/1/23.
- *
- * @author xuyingyi@bytedance.com (Yingyi Xu)
- */
+
 public enum Priority {
     High(2, Color.RED),
     Medium(1, Color.GREEN),

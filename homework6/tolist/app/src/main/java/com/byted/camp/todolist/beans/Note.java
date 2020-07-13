@@ -2,11 +2,7 @@ package com.byted.camp.todolist.beans;
 
 import java.util.Date;
 
-/**
- * Created on 2019/1/23.
- *
- * @author xuyingyi@bytedance.com (Yingyi Xu)
- */
+
 public class Note {
 
     public final long id;

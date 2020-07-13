@@ -2,11 +2,7 @@ package com.byted.camp.todolist.db;
 
 import android.provider.BaseColumns;
 
-/**
- * Created on 2019/1/22.
- *
- * @author xuyingyi@bytedance.com (Yingyi Xu)
- */
+
 public final class TodoContract {
 
     public static final String SQL_CREATE_NOTES =

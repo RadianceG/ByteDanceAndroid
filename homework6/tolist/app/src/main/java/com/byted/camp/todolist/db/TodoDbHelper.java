@@ -4,11 +4,7 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-/**
- * Created on 2019/1/22.
- *
- * @author xuyingyi@bytedance.com (Yingyi Xu)
- */
+
 public class TodoDbHelper extends SQLiteOpenHelper {
 
     private static final String DB_NAME = "todo.db";
